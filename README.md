@@ -139,6 +139,10 @@ Head over to the [documentation](https://scoold.com/documentation/intro/architec
 
 [![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostg.xyz/aff_c?offer_id=815&aff_id=243576&url_id=6843)
 
+<a href="https://repocloud.io/details/Scoold/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="64"></a>
+
+<a href="https://www.heroku.com/deploy?template=https://github.com/Erudika/scoold"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" height="64"></a>
+
 ## Support
 
 You can get support here by submitting an issue. Also you can head over to the Gitter chat room for help.
